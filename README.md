@@ -18,6 +18,10 @@ Visakhapatnam Interantional airport
 1. siripuram 
 2. nad junction
 3. Airport
+    * Biryani
+         * Sizzlers
+    * Pasta
+
 
 
 
