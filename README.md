@@ -10,3 +10,14 @@ serves variety of food for both Veg and Non-Veg lovers
 __golden bridge__
 
 
+
+---
+Direction to sams griddle
+Visakhapatnam Interantional airport
+
+1. siripuram 
+2. nad junction
+3. Airport
+
+
+
