@@ -27,8 +27,8 @@ Quotes i like
 ------------
 
 >stay hungry stay foolish
-* - steve jobs
+* steve jobs *
 
 >Sometimes life hits you in the head with a brick. Don't lose faith.
-* - steve jobs
+* steve jobs *
 
