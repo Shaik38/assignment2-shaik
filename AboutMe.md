@@ -40,7 +40,7 @@ code fencing
 
 >In computational geometry, a sweep line algorithm or plane sweep algorithm is an algorithmic paradigm that uses a conceptual sweep line or sweep surface to solve various problems in Euclidean space. It is one of the key techniques in computational geometry.
 
-![REFERENCE TO THE ABOVE SUMMARY](https://en.wikipedia.org/wiki/Sweep_line_algorithm)
+REFERENCE TO THE ABOVE SUMMARY<https://en.wikipedia.org/wiki/Sweep_line_algorithm>
 
 ```int[] res = new int[intervals.length];
  Arrays.fill(res, -1);
@@ -68,7 +68,7 @@ code fencing
  
  return res```
 
- ![REFERENCE TO THE ABOVE CODE](https://leetcode.com/problems/find-right-interval/discuss/91797/java-sweep-line-solution-onlogn)
+ REFERENCE TO THE ABOVE CODE<https://leetcode.com/problems/find-right-interval/discuss/91797/java-sweep-line-solution-onlogn>
 
 
 
