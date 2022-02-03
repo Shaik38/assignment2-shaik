@@ -42,7 +42,8 @@ code fencing
 
 REFERENCE TO THE ABOVE SUMMARY<https://en.wikipedia.org/wiki/Sweep_line_algorithm>
 
-```int[] res = new int[intervals.length];
+```
+int[] res = new int[intervals.length];
  Arrays.fill(res, -1);
  
  List<Point> points = new ArrayList<>();
@@ -66,7 +67,8 @@ REFERENCE TO THE ABOVE SUMMARY<https://en.wikipedia.org/wiki/Sweep_line_algorith
      }
  }
  
- return res```
+ return res
+ ```
 
  REFERENCE TO THE ABOVE CODE<https://leetcode.com/problems/find-right-interval/discuss/91797/java-sweep-line-solution-onlogn>
 
