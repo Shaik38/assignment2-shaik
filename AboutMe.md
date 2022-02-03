@@ -15,9 +15,20 @@ table
 This table is all about sport or activity and three columns consists of name of the sport, location, amount of money
 
 | sport/activity | Location | Amount |
-|----------------|----------|--------|
+|---|---|---|
 |Cricket | England | 300|
 |Hockey | India | 200|
 |Football | France | 400|
 | Basketball | Serbia | 700|
+
+-----
+Quotes i like 
+
+------------
+
+>stay hungry stay foolish
+* - steve jobs
+
+>Sometimes life hits you in the head with a brick. Don't lose faith.
+* - steve jobs
 
